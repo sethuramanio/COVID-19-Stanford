@@ -1,3 +1,6 @@
+This is backend platform for hosting the TeleVital app used for COVID 19 remote identification. 
+Mentor: Dr. Anoop Rao- Stanford school of medicine 
+
 install these packages using pip and maintain the version
 
 Django                        3.0.4
